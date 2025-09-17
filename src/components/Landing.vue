@@ -61,6 +61,6 @@
 </template>
 
 <script setup>
-  const resumeLink = '#'
-  const portfolioLink = '#'
+  const resumeLink = 'https://docs.google.com/document/d/1SieuUrI-yPR78w_I5VbJtiLXvUHdFiPb-ZwmC2j2YwE/'
+  const portfolioLink = 'https://docs.google.com/presentation/d/1F7k1dO6krLYVKx1hizboKNYVgD1byXvTdJGLsOTVx7Q/edit'
 </script>
