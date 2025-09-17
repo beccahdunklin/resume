@@ -23,7 +23,7 @@
             />
             <v-card-title class="text-h5 text-center">Resume</v-card-title>
             <v-card-text class="text-center flex-grow-1 d-flex align-center justify-center">
-              <div>View my professional resume and experience</div>
+              <div>My professional experience and skills</div>
             </v-card-text>
             <v-card-actions class="justify-center pb-4">
               <v-icon>mdi-file-document-outline</v-icon>
@@ -48,7 +48,7 @@
             />
             <v-card-title class="text-h5 text-center">Portfolio</v-card-title>
             <v-card-text class="text-center flex-grow-1 d-flex align-center justify-center">
-              <div>Explore my work and project portfolio</div>
+              <div>Creative works and project portfolio</div>
             </v-card-text>
             <v-card-actions class="justify-center pb-4">
               <v-icon>mdi-briefcase-outline</v-icon>
