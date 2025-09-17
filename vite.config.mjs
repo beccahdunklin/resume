@@ -11,7 +11,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/beccah_resume/',
+  base: '/resume/',
   plugins: [
     VueRouter(),
     Vue({
